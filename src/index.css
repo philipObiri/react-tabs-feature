@@ -1,0 +1,12 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+body{
+    font-family: sans-serif;
+    color:#383636;
+    /* background: #eeaeca ; */
+    background: linear-gradient(90deg, #eeaeca 0%, #94bbe9 100%);
+}
